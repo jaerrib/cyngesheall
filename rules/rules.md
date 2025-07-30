@@ -55,7 +55,7 @@ The player who captures the enemy king or guides their own king to the opposing 
 
 ## Credits
 
-**Cyngesheall** was conceived by John Beers in 2024 as a quasi-historical boardgame similar both **Oferhlýp** and **Mǽrstánas** and uses the same 7x7 grid. However, instead of "checkers with hit points" or making connections with stones, **Cyngesheall** take more direct inspiration from Hnefatafl. Aside from the setup, the primary differentiation is that the number of player pieces is even instead of asymmetrical, and each player has a king, which must reach the opposite corner rather than an edge.
+**Cyngesheall** was conceived by John Beers in 2024 as a quasi-historical boardgame similar to both **Oferhlýp** and **Mǽrstánas** and uses the same 7x7 grid. However, instead of "checkers with hit points" or making connections with stones, **Cyngesheall** take more direct inspiration from Hnefatafl. Aside from the setup, the primary differentiation is that the number of player pieces is even instead of asymmetrical, and each player has a king, which must reach the opposite corner rather than an edge.
 
 > The word *cyngesheall* is an Anglo-Saxon (Old English) compound word meaning "king's corner".
 
