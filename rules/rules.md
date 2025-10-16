@@ -53,6 +53,26 @@ Traditionally, the player using the darker colored stones plays first. Players t
 
 The player who captures the enemy king or guides their own king to the opposing corner is declared the winner.
 
+## Notation
+
+### Moves
+
+- **Move (standard stone / "man"):** `A1-A4`
+- **Move (king):** `KA1-A4`
+- **Move ("commander"):** `CA1-D4`
+
+### Captures
+
+- When a piece is captured, follow the move with an `x` and the position that was captured: `A1-A4xA5`
+- If multiple pieces are captured as a result of the move, followed each position with a `/` and then additional position: `A1-A4xA5/B4`
+
+### Endgame
+
+Endgame moves, such as when the king escapes or is captured, should be appended with an `!`:
+
+- **Escape:** `KA5-A1!`
+- **Capture:** `A1-A4xKA5!`
+
 ## Credits
 
 **Cyngesheall** was conceived by John Beers in 2024 as a quasi-historical boardgame similar to both **Oferhlýp** and **Mǽrstánas** and uses the same 7x7 grid. However, instead of "checkers with hit points" or making connections with stones, **Cyngesheall** take more direct inspiration from Hnefatafl. Aside from the setup, the primary differentiation is that the number of player pieces is even instead of asymmetrical, and each player has a king, which must reach the opposite corner rather than an edge.
